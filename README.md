@@ -17,7 +17,10 @@ Right now, Catfish is somewhat limited. Here is a simple demo of the interactive
 messagebox.bin should now contain a basic payload for launching a MessageBox.
 
 ##Prerequisites
-All that is needed to run is Distorm (http://code.google.com/p/distorm/)
+Install [Capstone engine](http://www.capstone-engine.org) with:
+
+    sudo pip install capstone
+    
 
 ##Future
 Some things planned for the future:
